@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dzxton
-- 🌱 I’m currently learning computer science and specifically cybersecurity 
+- 🌱 I’m currently learning computer science, specifically cybersecurity 
 - 💞️ I’m looking to collaborate on some beginner projects! 
 - 📫 How to reach me: instagram: dzxton linkedin: daxton dang
 
